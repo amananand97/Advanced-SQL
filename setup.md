@@ -58,5 +58,3 @@ Docker Desktop
      - Password: The password you set up
      - Click "Remember Password" if desired.
    - Click "Connect".
-
-/Users/work/setup.md
